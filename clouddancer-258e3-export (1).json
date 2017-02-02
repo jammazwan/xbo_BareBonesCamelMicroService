@@ -1,0 +1,340 @@
+{
+  "Autoresponders" : {
+    "-KaCH-oP0KxtiWDLQMRU" : {
+      "campaign" : "Love 2017",
+      "day" : "1",
+      "emailtext" : "The Love You Generate Is What You Get\n\nEvery day in June, the most popular wedding month of the year, about 13,000 American couples will say “I do,” committing to a lifelong relationship that will be full of friendship, joy, and love that will carry them forward to their final days on this earth.\n\nExcept, of course, it doesn’t work out that way for most people. The majority of marriages fail, either ending in divorce and separation or devolving into bitterness and dysfunction. ",
+      "product" : "AgeLoc Me",
+      "subject" : "The Love You Generate Is What You Get"
+    },
+    "-KaCHgTCj-xbhWpeiw2z" : {
+      "campaign" : "Me Jan 2017",
+      "day" : "1",
+      "emailtext" : "All things are wearisome; Man is not able to tell it. The eye is not satisfied with seeing, Nor is the ear filled with hearing. \n\nThat which has been is that which will be, And that which has been done is that which will be done. So there is nothing new under the sun. \n\nIs there anything of which one might say, \"See this, it is new \"? Already it has existed for ages Which were before us.…",
+      "product" : "AgeLoc Me",
+      "subject" : "100 Years Later, Something Actually Changes!"
+    },
+    "-Kag8deZEyX8OhxCmDrb" : {
+      "day" : "21",
+      "emailtext" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+      "product" : "Nu Skin Spa Systems",
+      "subject" : "Jo Mama!"
+    }
+  },
+  "FAQs" : {
+    "-KaAJMbxMsHZJRHhdqeG" : {
+      "answer" : "CHICAGO—Hundreds streamed into a massive convention center near downtown Chicago Tuesday evening, many traveling from other states and lining up hours before doors opened, to bid what they characterized as a bittersweet farewell to President ...\n\nThat's a recipe for more cynicism and polarization in our markets",
+      "category" : "primary",
+      "question" : "Does anybody really know what time it is?",
+      "sortIndex" : "5",
+      "timestamp" : 1484101089825
+    },
+    "-KaALVdAK5np6DhxxKUu" : {
+      "answer" : "Two early immigrants, Kazimierz Pułaski and Tadeusz Kościuszko, led armies in the Revolutionary War and are remembered as national heroes. Overall, more than one million Poles and Polish subjects have immigrated to the United States, primarily during the late 19th and early 20th centuries. Exact immigration numbers are unknown. Many immigrants were classified as \"Russian\", \"German\", and \"Austrian\" by the U.S. Immigration and Naturalization Service because the Polish state did not exist from 1795 to 1918, and thus the former territories of Poland at this time were under Prussian, Austrian-Hungarian and Russian control. Complicating the U.S. Census figures further are the high proportion of Polish Americans who marry outside their ethnicity; in 1940, about 50 percent married other American ethnics, and a study in 1988 found that 54 percent of Polish Americans three generations or higher had been of mixed ancestry. The Polish American Cultural Center places a figure of Americans who have some Polish ancestry at 19-20 million.\n\n",
+      "category" : "primary",
+      "question" : "Does science really matter?",
+      "sortIndex" : "5",
+      "timestamp" : 1484101651074
+    },
+    "-KaALvUUzQ7j2tufoyVv" : {
+      "answer" : "From the colonial era down to 1870, small numbers of Poles and Polish subjects came to America as individuals or in small family groups, and they quickly assimilated and did not form separate communities.\n\nSome Jews from Poland even assimilated into cities which were Polish (and also other Slavic, and sometimes additionally Jewish) bastions in order to conceal their Jewish identities.[6]",
+      "category" : "primary",
+      "question" : "How does this selected sorting of the facts work?",
+      "sortIndex" : "5",
+      "timestamp" : 1484101761046
+    },
+    "-Kag1EwclO9ce-DIWIn-" : {
+      "answer" : "Sales approaches appear to have always been factionalized at Nu Skin, and for good reason. \n\nNathan Ricks is often quoted \"Make your first million our way, then do your next million your way.\" This is sound advice.\n\nSadly, not everyone can follow this advice, as Nathan Ricks himself points out. Hence the many approaches found within the Nu Skin community, and of course, the factions that grow around these different approaches.\n\nThe cloudDancer community itself grew out of a different approach, and we can tell you that it is neither good nor bad, but it IS about each of us, and who we are.\n\nANY approach that works for you is the right approach. This community is here to support you no matter which approach, and no matter what kind of person you feel that you are.\n\n\"Integrity\" has many different definitions and usages. The operative concept here is the integrity that comes about when a person's actions and needs are roughly congruent with each other. If you are tugged one way and aiming the other, you may feel yourself out of integrity. \n\nWe're here to help you aim in any direction you prefer. But we also support you as you are anchored in your own history and development as a person. Growth is about movement from where you are. And, so are we.",
+      "category" : "sales",
+      "question" : "Sales approach by faction",
+      "sortIndex" : "4",
+      "timestamp" : 1484649987795
+    }
+  },
+  "Features" : {
+    "-KaCAzy48Zywbbn5kGAL" : {
+      "description" : "I would like this site to automagically brush my teeth for me, just by me thinking about it.",
+      "name" : "Automatic tooth brushing",
+      "timestamp" : 1484132450186
+    },
+    "-KaftBtIfR1r4EtqC5-k" : {
+      "description" : "A button, with both an explanation of, and then code for submitting an email into the commons area for use by others",
+      "name" : "share a personal email into the example emails",
+      "timestamp" : 1484647616998
+    },
+    "-KafzDkTkmv8gpksnCez" : {
+      "description" : "",
+      "name" : "",
+      "timestamp" : 1484649196488
+    },
+    "-KafzO-a8kYB5LR69LhZ" : {
+      "description" : "drop down",
+      "name" : "FAQ categories and selector",
+      "timestamp" : 1484649238481
+    }
+  },
+  "Groups" : {
+    "admin" : {
+      "LaHNHK2ScCbNcQyGr4fx3ecApiy2" : true,
+      "gx76CtwITsfI6lVqSqMc3v7tS563" : true
+    }
+  },
+  "ProductCategory" : {
+    "Nu Skin Body Care" : true,
+    "Nu Skin Color Cosmetics" : true,
+    "Nu Skin Epoch Essential Oils" : true,
+    "Nu Skin Face Care" : true,
+    "Nu Skin Spa Systems" : true,
+    "Nu Skin Treatments" : true,
+    "Nu Skin ageLOC Me" : true,
+    "Nu Skin ageLoc" : true,
+    "Pharmanex AgeLOC" : true,
+    "Pharmanex BioPhotonic Scanner" : true,
+    "Pharmanex Nutritionals" : true,
+    "Pharmanex Targeted Solutions" : true,
+    "Pharmanex Weight Management" : true,
+    "Pharmanex ageLOC Youth" : true
+  },
+  "Products" : {
+    "-KadElaXY_s46KhZuTgE" : {
+      "category" : "Nu Skin Body Care",
+      "description" : "non-soap, pH neutral cleanser for hands and body",
+      "link" : "https://www.nuskin.com/content/dam/office/n_america/shared/en/nuskin_products/liquid_body_bar_product_profile.pdf",
+      "name" : "Liquid Body Bar",
+      "sortIndex" : "5",
+      "timestamp" : 1484612081133
+    },
+    "-KadFDYAi10BqQuerb5K" : {
+      "category" : "Nu Skin Body Care",
+      "description" : "minty exfoliant scrub for shower and bath",
+      "link" : "https://www.nuskin.com/content/dam/office/n_america/shared/en/nuskin_products/liquid_body_lufra_product_profile.pdf",
+      "name" : "Liquid Body Lufra",
+      "sortIndex" : 5,
+      "timestamp" : 1484709206937
+    }
+  },
+  "Resources" : {
+    "-Ka9YrjZU2IAogoBD1JA" : {
+      "blurb" : "47 minutes - this is a great speech. Lots of points you can use.",
+      "category" : "primary",
+      "link" : "https://www.youtube.com/watch?v=kvu5kLUFVh4",
+      "sortIndex" : "5",
+      "timestamp" : 1484088376219,
+      "title" : "Best Ever Nathan"
+    },
+    "-KaABhTdH9OCPQ_E8Vag" : {
+      "blurb" : "7 minutes. This is where bill toth tells his experience with youth. If you haven't seen it, you might enjoy it. ",
+      "category" : "primary",
+      "link" : "https://www.youtube.com/watch?v=VSgGTNCv7s4",
+      "sortIndex" : "5",
+      "timestamp" : 1484099081173,
+      "title" : "The Famous Bill Toth On Youth Presentation"
+    }
+  },
+  "campaign_type" : {
+    "4 for 3 OTG style Distributor Startup" : true,
+    "ADR retention" : true,
+    "Just met you follow up" : true,
+    "Kuchel style product rep startup" : true,
+    "London young mother styled stocking vendor:" : true,
+    "Monthly Downline" : true,
+    "Retention general" : true,
+    "onboarding" : true,
+    "school of charm" : true
+  },
+  "nslevel" : {
+    "distributor" : true,
+    "executive" : true,
+    "not yet" : true,
+    "pcustomer" : true,
+    "referred_by" : true,
+    "sales leader" : true
+  },
+  "securitylevel" : {
+    "admin" : true,
+    "anonymous" : true,
+    "authenticated" : true,
+    "creative volunteer" : true,
+    "distributor" : true,
+    "pcustomer" : true
+  },
+  "users" : {
+    "LaHNHK2ScCbNcQyGr4fx3ecApiy2" : {
+      "Campaign" : {
+        "-Kaxz6_4RJDSsCYV80ZC" : {
+          "campaignType" : "ADR retention",
+          "category" : "Nu Skin Epoch Essential Oils",
+          "leadCaptureLink" : "https://nsinherit.work/-Kaxz6_4RJDSsCYV80ZC.html",
+          "name" : "2017-01-20___V80ZC___NuSkinEpochEssentialOils",
+          "salesLink" : "https://nsinherit.work/-Kaxz6_4RJDSsCYV80ZC_.html",
+          "timestamp" : 1484951157525
+        },
+        "-Kay8_jsPKDzd4vy008e" : {
+          "campaignType" : "Just met you follow up",
+          "category" : "Pharmanex ageLOC Youth",
+          "description" : "Notes about my successes with youth",
+          "leadCaptureLink" : "https://nsinherit.work/-Kay8_jsPKDzd4vy008e.html",
+          "name" : "2017-01-20___y008e___PharmanexageLOCYouth",
+          "salesLink" : "https://nsinherit.work/-Kay8_jsPKDzd4vy008e_.html",
+          "timestamp" : 1484953901319
+        },
+        "-Kb0wir3cUu0cxEz7W_6" : {
+          "campaignType" : "ADR retention",
+          "category" : "Nu Skin Epoch Essential Oils",
+          "leadCaptureLink" : "https://nsinherit.work/-Kb0wir3cUu0cxEz7W_6.html",
+          "name" : "2017-01-21___z7W_6___NuSkinEpochEssentialOils",
+          "salesLink" : "https://nsinherit.work/-Kb0wir3cUu0cxEz7W_6_.html",
+          "timestamp" : 1485017640489
+        },
+        "-Kb5znoCaCPu-unIhXqm" : {
+          "campaignType" : "Monthly Downline",
+          "category" : "Nu Skin Spa Systems",
+          "description" : "testing the database update",
+          "leadCaptureLink" : "https://nsinherit.work/-Kb5znoCaCPu-unIhXqm.html",
+          "name" : "2017-01-22___IhXqm___NuSkinSpaSystems",
+          "salesLink" : "https://nsinherit.work/-Kb5znoCaCPu-unIhXqm_.html",
+          "timestamp" : 1485102333395
+        },
+        "-KbHDLTAVZCd8Um4mRC7" : {
+          "campaignType" : "Just met you follow up",
+          "category" : "Nu Skin Spa Systems",
+          "leadCaptureLink" : "https://nsinherit.work/-KbHDLTAVZCd8Um4mRC7.html",
+          "name" : "2017-01-24___4mRC7___NuSkinSpaSystems",
+          "salesLink" : "https://nsinherit.work/-KbHDLTAVZCd8Um4mRC7_.html",
+          "timestamp" : 1485290695281
+        }
+      },
+      "CampaignName" : {
+        "2017-01-20___V80ZC___NuSkinEpochEssentialOils" : {
+          "campaignKey" : "-Kaxz6_4RJDSsCYV80ZC"
+        },
+        "2017-01-20___y008e___PharmanexageLOCYouth" : {
+          "campaignKey" : "-Kay8_jsPKDzd4vy008e"
+        },
+        "2017-01-21___z7W_6___NuSkinEpochEssentialOils" : {
+          "campaignKey" : "-Kb0wir3cUu0cxEz7W_6"
+        },
+        "2017-01-22___IhXqm___NuSkinSpaSystems" : {
+          "campaignKey" : "-Kb5znoCaCPu-unIhXqm"
+        },
+        "2017-01-24___4mRC7___NuSkinSpaSystems" : {
+          "campaignKey" : "-KbHDLTAVZCd8Um4mRC7"
+        }
+      },
+      "EmailContent" : {
+        "-KaxzFpkkFsc7KEIhQTj" : {
+          "campaign" : "2017-01-20___V80ZC___NuSkinEpochEssentialOils",
+          "day" : "7",
+          "emailtext" : "Hey [first name],\n\nMy name is [my name] and I'm with [my company name]. We work with organizations like [company name] to [insert one sentence pitch].\n\n[One sentence unique benefit].\n\nCould you direct me to the right person to talk to about this at [company name] so we can explore if this would be something valuable to incorporate into your events?\n\nCheers,",
+          "subject" : "You'll Never Believe What I Found!"
+        },
+        "-Kay9Qok5ql57fn8yJli" : {
+          "campaign" : "2017-01-20___y008e___PharmanexageLOCYouth",
+          "day" : "1",
+          "emailtext" : "After a lifetime of seeking a series of products to ensure actual experiential improvements, I now have a decidedly happier group of choices.  AgeLOC Youth is a stand alone product that can be taken by anybody, 2 capsules morning and 2 evening.  More if you’re large or have increased concerns about health, but never more than twice that amount.  \n\nThe packages that this company put together for us is beyond anything that most of us have ever seen, in terms of value. the idea is that if a person experiences wonderful results, not only will THEY never leave this product alone, but they will become a walking billboard after a few months, ensuring that the product is the driving force behind a legacy volume, and for we the distributor base, a legacy income.  \n\nWhen I assign a recommendation to anybody, i am sure to listen first and offer suggestions in accordance with THEIR factors; ease of implementing the nutritional habits (taking their supplements regularly), their diet, their budget.  \n\nWhen I scan initially, I wish to get a baseline as I know any of these products will ensure absorption into the system.  When on other product lines, I want to see first we see if there’s absorption, then we see what else is contained in the ingredient list of constituents that are being absorbed and hands down, our older LifePak Nano is the king of the hill.  But we also have the regular Lifepak for the budget conscious, vitality for more epigenetic influence into the body in the mitochondria, meaning energy, mental clarity, more productive and restful sleep etc.  And then the g3 juice for super low scores, perhaps poor absorption and those who hate taking ‘too many capsules”.\n\nWe already had a wonderful line-up.  Then we have the new science of AgeLOC Youth and it’s raising the bar even higher and we know it’s resetting that gene expression.  Let me know how much science you guys would like to see and I’ll send along.  Meanwhile. I shall give you a holler and let’s see what we should do for your order…. please know I’m here to serve your needs and really truly do want to see a human that improves and not just an order.  I totally am jazzed to see the results that anyone might experience.  It has become a joy for me to finally finally finally have something that is felt generally inside that first month, if not, by the second. ",
+          "subject" : "my favorite AgeLOC Youth packages"
+        },
+        "-KayB2AHJHtyU32VTMd4" : {
+          "campaign" : "2017-01-20___y008e___PharmanexageLOCYouth",
+          "day" : "5",
+          "emailtext" : "After a lifetime of seeking a series of products to ensure actual experiential improvements, I now have a decidedly happier group of choices. You would like that.\n\nWhen I assign a recommendation to anybody, i am sure to listen first and offer suggestions in accordance with THEIR factors; ease of implementing the nutritional habits (taking their supplements regularly), their diet, their budget.  \n\nWhen I scan initially, I'd like to see what yours is.",
+          "subject" : "more about AgeLOC Youth packages"
+        },
+        "-Kb0iBKbzcJYAWdxLct_" : {
+          "campaign" : "2017-01-20___V80ZC___NuSkinEpochEssentialOils",
+          "day" : "1",
+          "emailtext" : "After a lifetime of seeking a series of products to ensure actual experiential improvements, I now have a decidedly happier group of choices.  AgeLOC Youth is a stand alone product that can be taken by anybody, 2 capsules morning and 2 evening.  More if you’re large or have increased concerns about health, but never more than twice that amount.  \n",
+          "subject" : "my favorite AgeLOC Youth packages"
+        }
+      },
+      "EmailLookup" : {
+        "-KaxzFpkkFsc7KEIhQTj" : {
+          "campaignKey" : "-Kaxz6_4RJDSsCYV80ZC",
+          "campaignName" : "2017-01-20___V80ZC___NuSkinEpochEssentialOils",
+          "campaignType" : "ADR retention",
+          "extract" : "2017-01-20 EpochEssentialOils YOU'LL NEVER BELIEVE WHAT I FOUND! Hey [first name],My name is [my name] and I'm with [my company name]. We work with or...(DAY 7)",
+          "productCategory" : "Nu Skin Epoch Essential Oils"
+        },
+        "-Kay9Qok5ql57fn8yJli" : {
+          "campaignKey" : "-Kay8_jsPKDzd4vy008e",
+          "campaignName" : "2017-01-20___y008e___PharmanexageLOCYouth",
+          "campaignType" : "Just met you follow up",
+          "extract" : "2017-01-20 ageLOCYouth MY FAVORITE AGELOC YOUTH PACKAGES After a lifetime of seeking a series of products to ensure actual experiential improvements, ...(DAY 1)",
+          "productCategory" : "Pharmanex ageLOC Youth"
+        },
+        "-KayB2AHJHtyU32VTMd4" : {
+          "campaignKey" : "-Kay8_jsPKDzd4vy008e",
+          "campaignName" : "2017-01-20___y008e___PharmanexageLOCYouth",
+          "campaignType" : "Just met you follow up",
+          "extract" : "2017-01-20 ageLOCYouth MORE ABOUT AGELOC YOUTH PACKAGES After a lifetime of seeking a series of products to ensure actual experiential improvements, I...(DAY 5)",
+          "productCategory" : "Pharmanex ageLOC Youth"
+        },
+        "-Kb0iBKbzcJYAWdxLct_" : {
+          "campaignKey" : "-Kaxz6_4RJDSsCYV80ZC",
+          "campaignName" : "2017-01-20___V80ZC___NuSkinEpochEssentialOils",
+          "campaignType" : "ADR retention",
+          "extract" : "2017-01-20 EpochEssentialOils MY FAVORITE AGELOC YOUTH PACKAGES After a lifetime of seeking a series of products to ensure actual experiential improve...(DAY 1)",
+          "productCategory" : "Nu Skin Epoch Essential Oils"
+        }
+      },
+      "Profile" : {
+        "color" : "teal",
+        "primaryType" : "science-nerd",
+        "timestamp" : 1484140245635,
+        "title" : "Pete Carapetyan"
+      },
+      "Requests" : {
+        "-KaCDjNDVuhYiDyr_AMY" : {
+          "description" : "This thing is too slow",
+          "name" : "make it faster",
+          "timestamp" : 1484133168660
+        },
+        "-KaCDvipvNJFPFv0jzFQ" : {
+          "description" : "Every time I come to this site it does something different",
+          "name" : "I can't make my personal thing work",
+          "timestamp" : 1484133219259
+        }
+      },
+      "notes" : {
+        "-K_ykM8e3gMZl2jZCb-0" : {
+          "content" : "Melissa (Missy) Wear; airplane Den to Aus, San A. int in AgeLOC tech, launching and biz op, toothpaste, ALWAYS looking for whitening, (occasional smoker)"
+        }
+      }
+    },
+    "gx76CtwITsfI6lVqSqMc3v7tS563" : {
+      "Campaigns" : {
+        "-KajhzSL9FaU6LZ7VC2D" : {
+          "autoLink" : "https://clouddancer.info?campaign=-KajhzSL9FaU6LZ7VC2D",
+          "description" : "youth, getting a start on epigenetic inside",
+          "leadCaptureLink" : "https://nsinherit.work/-KajhzSL9FaU6LZ7VC2D.html",
+          "name" : "AgeLOC Youth",
+          "salesLink" : "https://nsinherit.work/-KajhzSL9FaU6LZ7VC2D_.html",
+          "timestamp" : 1484711786316
+        },
+        "-Kaji1QURh_2ANKMOv8l" : {
+          "autoLink" : "https://clouddancer.info?campaign=-Kaji1QURh_2ANKMOv8l",
+          "leadCaptureLink" : "https://nsinherit.work/-Kaji1QURh_2ANKMOv8l.html",
+          "salesLink" : "https://nsinherit.work/-Kaji1QURh_2ANKMOv8l_.html",
+          "timestamp" : 1484711798485
+        },
+        "-Kaji7VQ1WG1NdDTu1MR" : {
+          "autoLink" : "https://clouddancer.info?campaign=-Kaji7VQ1WG1NdDTu1MR",
+          "leadCaptureLink" : "https://nsinherit.work/-Kaji7VQ1WG1NdDTu1MR.html",
+          "salesLink" : "https://nsinherit.work/-Kaji7VQ1WG1NdDTu1MR_.html",
+          "timestamp" : 1484711823377
+        },
+        "-Kaji7gjbmgG5cRbVqGL" : {
+          "autoLink" : "https://clouddancer.info?campaign=-Kaji7gjbmgG5cRbVqGL",
+          "leadCaptureLink" : "https://nsinherit.work/-Kaji7gjbmgG5cRbVqGL.html",
+          "salesLink" : "https://nsinherit.work/-Kaji7gjbmgG5cRbVqGL_.html",
+          "timestamp" : 1484711824165
+        }
+      },
+      "notes" : {
+        "-K_ymG5RPbcmtnLoX1Kc" : {
+          "content" : "Melissa (Missy) Wear, DIA to ABI 1/7, San Anton, beau John, psychology major, int in op, AgeLOC launch, whitening paste, waited to hug goodbye."
+        }
+      }
+    }
+  }
+}

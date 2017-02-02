@@ -1,0 +1,38 @@
+{
+  "nslevel" : {
+    "distributor" : true,
+    "executive" : true,
+    "pcustomer" : true
+  },
+  "securitylevel" : {
+    "admin" : true,
+    "distributor" : true,
+    "pcustomer" : true
+  },
+  "something" : {
+    "else" : {
+      "other" : true
+    }
+  },
+  "thing" : {
+    "@thingid" : {
+      "though" : {
+        "@thoughid" : {
+          "content" : "Your mother is a cow"
+        }
+      }
+    }
+  },
+  "users" : {
+    "LaHNHK2ScCbNcQyGr4fx3ecApiy2" : {
+      "notes" : {
+        "-K_dnqREyVItSfPq1Zp5" : {
+          "content" : "Meredith was a queen."
+        },
+        "-K_e4wNWEIZMAaQxb1FS" : {
+          "content" : "another successful UI is written, this time in less than 20 minutes"
+        }
+      }
+    }
+  }
+}
